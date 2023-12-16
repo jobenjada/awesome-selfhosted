@@ -53,6 +53,7 @@ See [Contributing](#contributing).
   - [File Transfer - Peer-to-peer Filesharing](#file-transfer---peer-to-peer-filesharing)
   - [File Transfer - Single-click & Drag-n-drop Upload](#file-transfer---single-click--drag-n-drop-upload)
   - [File Transfer - Web-based File Managers](#file-transfer---web-based-file-managers)
+  - [Form and Survey Tools](#form-survey-tools)
   - [Games](#games)
   - [Games - Administrative Utilities & Control Panels](#games---administrative-utilities--control-panels)
   - [Genealogy](#genealogy)
@@ -982,6 +983,13 @@ _Related: [Groupware](#groupware)_
 - [Surfer](https://git.cloudron.io/cloudron/surfer) - Simple static file server with webui to manage files. `MIT` `Nodejs`
 - [TagSpaces](https://www.tagspaces.org/) - TagSpaces is an offline, cross-platform file manager and organiser that also can function as a note taking app. The WebDAV version of the application can be installed on top of a WebDAV servers such as Nextcloud or ownCloud. ([Demo](https://demo.tagspaces.com), [Source Code](https://github.com/tagspaces/tagspaces)) `AGPL-3.0` `Nodejs`
 
+### Form and Survey Tools
+
+**[`^        back to top        ^`](#awesome-selfhosted)**
+
+Web-based form and survey tools.
+
+- [Formbricks](https://formbricks.com/) - Open Source Survey Toolkit for standalone surveys (like Typeform), website surveys (like HotJar Ask) and highly targeted in-app surveys (like Sprig). Completely free self-hosted. ([Source Code](https://github.com/formbricks/formbricks)) `AGPL-3.0` `Typescript`
 
 ### Games
 
